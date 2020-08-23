@@ -21,6 +21,11 @@ Even this very README.md file was created using its own application!
         Run npm i in the command line to install. 
 ## Usage
 This command line application can get rid of the hassle of writing a readme.md from scratch. Through a series of prompts in the command line, the application can generate the readme.md file organized and filled in with the user input information.
+
+<iframe src="https://drive.google.com/file/d/15bezhF_NK-QO-7QoFIV5jG7EFyoiOJ3m/preview" width="640" height="480"></iframe>
+
+^^^^^ Here is this baby in action... (overwriting this current readme.md) ^^^^^
+
 ## License
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
