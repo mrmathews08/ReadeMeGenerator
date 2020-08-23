@@ -1,8 +1,13 @@
 
-# **test**
-test
+# **The Good Read Me Generator**
+![GitHub license](https://img.shields.io/badge/Made%20by-%40mrmathews08-orange)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description 
-test
+When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
+
+Even this very README.md file was created using its own application!
+
+![Screen Shot 2020-08-23 at 5 40 17 PM (2)](https://user-images.githubusercontent.com/65747246/90991643-fef3bc80-e567-11ea-872c-e644819f05b4.png)
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -13,19 +18,19 @@ test
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        test
+        Run npm i in the command line to install. 
 ## Usage
-test
+This command line application can get rid of the hassle of writing a readme.md from scratch. Through a series of prompts in the command line, the application can generate the readme.md file organized and filled in with the user input information.
 ## License
-tes
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-test
+Tyler Mathews
 ## Test
-test
+![GitHub license](https://img.shields.io/badge/test-100%25-success)
 ## Repository
-- [Project Repo](test)
+- [Project Repo](https://github.com/mrmathews08/ReadeMeGenerator)
 ## GitHub
-![Image of me](https://avatars3.githubusercontent.com/u/383316?v=4)
-- null
-- [GitHub Profile](https://github.com/test)
+![Image of me](https://avatars1.githubusercontent.com/u/65747246?v=4)
+- Tyler  Mathews
+- [GitHub Profile](https://github.com/mrmathews08)
 - <null>
