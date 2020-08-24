@@ -23,9 +23,10 @@ Even this very README.md file was created using its own application!
 This command line application can get rid of the hassle of writing a readme.md from scratch. Through a series of prompts in the command line, the application can generate the readme.md file organized and filled in with the user input information.
 
 
-![Untitled_ Aug 23, 2020 6_03 PM](https://user-images.githubusercontent.com/65747246/90992148-09638580-e56b-11ea-9a64-cfba267bc510.gif)
+![Untitled_ Aug 23, 2020 6_03 PM (1)](https://user-images.githubusercontent.com/65747246/90992291-eedddc00-e56b-11ea-91b4-bd218989148c.gif)
 
-https://drive.google.com/file/d/1ZOw6CmKmPDo8-dLS0slaAWEEV1KoA-97/preview
+
+https://drive.google.com/file/d/1ZOw6CmKmPDo8-dLS0slaAWEEV1KoA-97/view
 
 
 ^^^^^ Here is this baby in action... (overwriting this current readme.md) ^^^^^
